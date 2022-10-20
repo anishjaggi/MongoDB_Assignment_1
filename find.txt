@@ -1,0 +1,300 @@
+{ _id: ObjectId("63513ecb0b579974ddd37fd0"),
+  address: 
+   { building: '1007',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Mall Road Mussorrie',
+     zipcode: '10462' },
+  cuisine: 'Bakery',
+  grades: 
+   [ { date: 2014-03-03T00:00:00.000Z, grade: 'A', score: 2 },
+     { date: 2013-09-11T00:00:00.000Z, grade: 'A', score: 6 },
+     { date: 2013-01-24T00:00:00.000Z, grade: 'A', score: 10 },
+     { date: 2011-11-23T00:00:00.000Z, grade: 'A', score: 9 },
+     { date: 2011-03-10T00:00:00.000Z, grade: 'B', score: 14 } ],
+  name: 'Morris Bake Shop',
+  restaurant_id: '30075445' }
+{ _id: ObjectId("635143200b579974ddd37fd1"),
+  address: 
+   { building: '1007',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Mall Road Mussorrie',
+     zipcode: '10462' },
+  cuisine: 'Bakery',
+  grades: 
+   [ { date: 2014-03-03T00:00:00.000Z, grade: 'A', score: 2 },
+     { date: 2013-09-11T00:00:00.000Z, grade: 'A', score: 6 },
+     { date: 2013-01-24T00:00:00.000Z, grade: 'A', score: 10 },
+     { date: 2011-11-23T00:00:00.000Z, grade: 'A', score: 9 },
+     { date: 2011-03-10T00:00:00.000Z, grade: 'B', score: 14 } ],
+  name: 'Cafeteria Frozeeto',
+  restaurant_id: '30075446' }
+{ _id: ObjectId("635143540b579974ddd37fd2"),
+  address: 
+   { building: '1007',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Mall Road Mussorrie',
+     zipcode: '10462' },
+  cuisine: 'Bakery',
+  grades: 
+   [ { date: 2014-03-03T00:00:00.000Z, grade: 'A', score: 2 },
+     { date: 2013-09-11T00:00:00.000Z, grade: 'A', score: 6 },
+     { date: 2013-01-24T00:00:00.000Z, grade: 'A', score: 10 },
+     { date: 2011-11-23T00:00:00.000Z, grade: 'A', score: 9 },
+     { date: 2011-03-10T00:00:00.000Z, grade: 'B', score: 14 } ],
+  name: 'Cafeteria Akkis',
+  restaurant_id: '30075447' }
+{ _id: ObjectId("635182ed0b579974ddd37fd3"),
+  address: 
+   { building: '1007',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Moosa Village, Mansa',
+     zipcode: '10562' },
+  cuisine: 'Cafteria',
+  grades: 
+   [ { date: 2010-12-31T14:13:20.000Z, grade: 'A', score: 2 },
+     { date: 2013-09-11T00:00:00.000Z, grade: 'A', score: 6 },
+     { date: 2016-03-26T09:46:40.000Z, grade: 'A', score: 10 },
+     { date: 2011-11-23T00:00:00.000Z, grade: 'A', score: 9 },
+     { date: 2011-03-10T00:00:00.000Z, grade: 'B', score: 14 } ],
+  name: 'Cafeteria Sidhu',
+  restaurant_id: '30075447' }
+{ _id: ObjectId("635185960b579974ddd37fd4"),
+  address: 
+   { building: '1008',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Mall Road Mussorrie',
+     zipcode: '10465' },
+  cuisine: 'Cake Shop',
+  grades: 
+   [ { date: 2017-05-03T09:46:40.000Z, grade: 'A', score: 2 },
+     { date: 2013-09-11T00:00:00.000Z, grade: 'A', score: 6 },
+     { date: 2009-11-23T14:13:20.000Z, grade: 'A', score: 10 },
+     { date: 2005-07-22T04:26:40.000Z, grade: 'A', score: 9 },
+     { date: 2020-09-10T05:20:00.000Z, grade: 'B', score: 14 } ],
+  name: 'Cafeteria 26 Boulevard',
+  restaurant_id: '30075447' }
+{ _id: ObjectId("635186160b579974ddd37fd5"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Sector 26 , Chandigarh',
+     zipcode: '10468' },
+  cuisine: 'Juice Bar',
+  grades: 
+   [ { date: 2017-05-03T09:46:40.000Z, grade: 'A', score: 10 },
+     { date: 2013-09-11T00:00:00.000Z, grade: 'A', score: 15 },
+     { date: 2009-11-23T14:13:20.000Z, grade: 'A', score: 20 },
+     { date: 2005-07-22T04:26:40.000Z, grade: 'A', score: 70 },
+     { date: 2020-09-10T05:20:00.000Z, grade: 'B', score: 18 } ],
+  name: 'Cafeteria 26 Sector',
+  restaurant_id: '30075448' }
+{ _id: ObjectId("635186900b579974ddd37fd6"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Opposite Bus Stand, Nagar',
+     zipcode: '10469' },
+  cuisine: 'Cake Parlour',
+  grades: 
+   [ { date: 2010-12-31T14:13:20.000Z, grade: 'A', score: 80 },
+     { date: 2013-09-11T00:00:00.000Z, grade: 'A', score: 70 },
+     { date: 2016-03-26T09:46:40.000Z, grade: 'A', score: 60 },
+     { date: 2018-03-25T19:33:20.000Z, grade: 'A', score: 95 },
+     { date: 2023-11-11T15:06:40.000Z, grade: 'B', score: 82 } ],
+  name: 'Cafeteria Thapar',
+  restaurant_id: '30075449' }
+{ _id: ObjectId("635187140b579974ddd37fd7"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Bridge Road,Brampton',
+     zipcode: '10470' },
+  cuisine: 'Burgers and Snacks',
+  grades: 
+   [ { date: 2010-09-06T20:26:40.000Z, grade: 'A', score: 40 },
+     { date: 2013-09-11T00:00:00.000Z, grade: 'A', score: 30 },
+     { date: 2016-07-20T03:33:20.000Z, grade: 'A', score: 80 },
+     { date: 2019-03-08T00:53:20.000Z, grade: 'A', score: 90 },
+     { date: 2022-04-11T22:13:20.000Z, grade: 'B', score: 100 } ],
+  name: 'Cafeteria Parkour',
+  restaurant_id: '30075450' }
+{ _id: ObjectId("635187780b579974ddd37fd8"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: '21 Streer,Brampton',
+     zipcode: '10471' },
+  cuisine: 'Burgers and Pizzas',
+  grades: 
+   [ { date: 2010-12-31T14:13:20.000Z, grade: 'A', score: 20 },
+     { date: 2014-01-04T17:46:40.000Z, grade: 'A', score: 30 },
+     { date: 2016-11-12T21:20:00.000Z, grade: 'A', score: 40 },
+     { date: 2019-07-01T18:40:00.000Z, grade: 'A', score: 50 },
+     { date: 2022-08-05T16:00:00.000Z, grade: 'B', score: 60 } ],
+  name: 'Cafeteria Brampton',
+  restaurant_id: '30075451' }
+{ _id: ObjectId("635187d20b579974ddd37fd9"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Sidhu Moosewala,Mansa',
+     zipcode: '10472' },
+  cuisine: 'Tea and Toast',
+  grades: 
+   [ { date: 2017-05-03T09:46:40.000Z, grade: 'A', score: 90 },
+     { date: 2020-05-07T13:20:00.000Z, grade: 'A', score: 80 },
+     { date: 2023-03-16T16:53:20.000Z, grade: 'A', score: 70 },
+     { date: 2025-11-01T14:13:20.000Z, grade: 'A', score: 60 },
+     { date: 2028-12-06T11:33:20.000Z, grade: 'B', score: 50 } ],
+  name: 'Cafeteria Dil da ni mada',
+  restaurant_id: '30075452' }
+{ _id: ObjectId("6351880f0b579974ddd37fda"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Sector 18, Delhi',
+     zipcode: '10473' },
+  cuisine: 'Chicken Burgers',
+  grades: 
+   [ { date: 2017-05-03T09:46:40.000Z, grade: 'A', score: 90 },
+     { date: 2020-05-07T13:20:00.000Z, grade: 'A', score: 80 },
+     { date: 2023-03-16T16:53:20.000Z, grade: 'A', score: 70 },
+     { date: 2025-11-01T14:13:20.000Z, grade: 'A', score: 60 },
+     { date: 2028-12-06T11:33:20.000Z, grade: 'B', score: 50 } ],
+  name: 'Cafeteria Sailing Kitchen',
+  restaurant_id: '30075453' }
+{ _id: ObjectId("635188570b579974ddd37fdb"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Sector 19, Delhi',
+     zipcode: '10474' },
+  cuisine: 'Chicken Biryani',
+  grades: 
+   [ { date: 2017-05-03T09:46:40.000Z, grade: 'A', score: 10 },
+     { date: 2020-05-07T13:20:00.000Z, grade: 'A', score: 20 },
+     { date: 2023-03-16T16:53:20.000Z, grade: 'A', score: 30 },
+     { date: 2025-11-01T14:13:20.000Z, grade: 'A', score: 40 },
+     { date: 2028-12-06T11:33:20.000Z, grade: 'B', score: 50 } ],
+  name: 'Cafeteria Hello',
+  restaurant_id: '30075454' }
+{ _id: ObjectId("6351888c0b579974ddd37fdc"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Sector 20, Delhi',
+     zipcode: '10475' },
+  cuisine: 'Chicken Pizza',
+  grades: 
+   [ { date: 2010-12-31T14:13:20.000Z, grade: 'A', score: 10 },
+     { date: 2014-01-04T17:46:40.000Z, grade: 'A', score: 20 },
+     { date: 2020-01-14T07:06:40.000Z, grade: 'A', score: 30 },
+     { date: 2025-11-01T14:13:20.000Z, grade: 'A', score: 40 },
+     { date: 2032-02-06T21:20:00.000Z, grade: 'B', score: 50 } ],
+  name: 'Cafeteria Bhaijaan',
+  restaurant_id: '30075455' }
+{ _id: ObjectId("635189460b579974ddd37fdd"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Sector 21, Delhi',
+     zipcode: '10476' },
+  cuisine: 'Chicken Shawrma',
+  grades: 
+   [ { date: 2010-12-31T14:13:20.000Z, grade: 'A', score: 90 },
+     { date: 2014-01-04T17:46:40.000Z, grade: 'A', score: 50 },
+     { date: 2020-01-14T07:06:40.000Z, grade: 'A', score: 30 },
+     { date: 2025-11-01T14:13:20.000Z, grade: 'A', score: 40 },
+     { date: 2032-02-06T21:20:00.000Z, grade: 'B', score: 70 } ],
+  name: 'Cafeteria Yezdaan',
+  restaurant_id: '30075457' }
+{ _id: ObjectId("635189780b579974ddd37fde"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Sector 22, Delhi',
+     zipcode: '10477' },
+  cuisine: 'Veggies',
+  grades: 
+   [ { date: 2010-12-31T14:13:20.000Z, grade: 'A', score: 90 },
+     { date: 2014-01-04T17:46:40.000Z, grade: 'A', score: 50 },
+     { date: 2020-01-14T07:06:40.000Z, grade: 'A', score: 30 },
+     { date: 2025-11-01T14:13:20.000Z, grade: 'A', score: 40 },
+     { date: 2032-02-06T21:20:00.000Z, grade: 'B', score: 70 } ],
+  name: 'Cafeteria Veggie Paji',
+  restaurant_id: '30075458' }
+{ _id: ObjectId("635189c00b579974ddd37fdf"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Sector 23, Delhi',
+     zipcode: '10478' },
+  cuisine: 'Veggies n fries',
+  grades: 
+   [ { date: 2010-12-31T14:13:20.000Z, grade: 'A', score: 80 },
+     { date: 2014-01-04T17:46:40.000Z, grade: 'A', score: 50 },
+     { date: 2020-01-14T07:06:40.000Z, grade: 'A', score: 60 },
+     { date: 2025-11-01T14:13:20.000Z, grade: 'A', score: 14 },
+     { date: 2032-02-06T21:20:00.000Z, grade: 'B', score: 71 } ],
+  name: 'Cafeteria French',
+  restaurant_id: '30075459' }
+{ _id: ObjectId("63518a020b579974ddd37fe0"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Sector 24, Delhi',
+     zipcode: '10479' },
+  cuisine: 'Mocktails and Cakes',
+  grades: 
+   [ { date: 2010-12-31T14:13:20.000Z, grade: 'B', score: 80 },
+     { date: 2014-01-04T17:46:40.000Z, grade: 'B', score: 50 },
+     { date: 2020-01-14T07:06:40.000Z, grade: 'A', score: 60 },
+     { date: 2025-11-01T14:13:20.000Z, grade: 'B', score: 14 },
+     { date: 2032-02-06T21:20:00.000Z, grade: 'B', score: 71 } ],
+  name: 'Cafeteria Mocha',
+  restaurant_id: '30075460' }
+{ _id: ObjectId("63518a590b579974ddd37fe1"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Sector 25, Chandigarh',
+     zipcode: '10480' },
+  cuisine: 'Pizza and Cakes',
+  grades: 
+   [ { date: 2010-12-31T14:13:20.000Z, grade: 'B', score: 20 },
+     { date: 2014-01-04T17:46:40.000Z, grade: 'B', score: 10 },
+     { date: 2020-01-14T07:06:40.000Z, grade: 'A', score: 15 },
+     { date: 2025-11-01T14:13:20.000Z, grade: 'B', score: 19 },
+     { date: 2032-02-06T21:20:00.000Z, grade: 'B', score: 18 } ],
+  name: 'Cafeteria Guns',
+  restaurant_id: '30075461' }
+{ _id: ObjectId("63518a980b579974ddd37fe2"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Sector 26, Chandigarh',
+     zipcode: '10481' },
+  cuisine: 'Chocolate Parlour',
+  grades: 
+   [ { date: 2010-12-31T14:13:20.000Z, grade: 'B', score: 20 },
+     { date: 2014-01-04T17:46:40.000Z, grade: 'B', score: 10 },
+     { date: 2020-01-14T07:06:40.000Z, grade: 'A', score: 15 },
+     { date: 2025-11-01T14:13:20.000Z, grade: 'B', score: 19 },
+     { date: 2032-02-06T21:20:00.000Z, grade: 'B', score: 18 } ],
+  name: 'Cafeteria Chocolates',
+  restaurant_id: '30075462' }
+{ _id: ObjectId("63518ad20b579974ddd37fe3"),
+  address: 
+   { building: '1009',
+     coord: [ -73.856077, 40.848447 ],
+     street: 'Sector 27, Chandigarh',
+     zipcode: '10482' },
+  cuisine: 'Sandwiches',
+  grades: 
+   [ { date: 2010-12-31T14:13:20.000Z, grade: 'A', score: 20 },
+     { date: 2014-01-04T17:46:40.000Z, grade: 'B', score: 10 },
+     { date: 2020-01-14T07:06:40.000Z, grade: 'A', score: 15 },
+     { date: 2025-11-01T14:13:20.000Z, grade: 'A', score: 29 },
+     { date: 2032-02-06T21:20:00.000Z, grade: 'B', score: 28 } ],
+  name: 'Cafeteria Dhillon',
+  restaurant_id: '30075463' }
